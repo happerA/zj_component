@@ -31,5 +31,7 @@ npm init
 
 ## 组件打包及功能测试
   npm link 把打包之后的组件引入到全局 node_modules 
+  import Component from 'zj_component';
+  import 'zj_component/lib/main.min.css';
 
 ## 发布组件
